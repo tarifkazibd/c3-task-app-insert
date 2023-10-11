@@ -1,0 +1,78 @@
+
+
+*{
+  padding: 0;
+  margin: 0 auto;
+
+}
+.mt-50{
+  margin-top:50px;
+}
+.App {
+  text-align: center;
+  border: 1px solid green;
+  max-width: 600px;
+  padding: 20px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+h1{
+  line-height: 2;
+}
+ul>li{
+  list-style: none;
+  background-color: beige;
+  text-align: end;
+  margin: 5px;
+}
+input{
+  height: 25px;
+  margin-left: 5px;
+}
+.btn{
+  margin: 5px;
+  padding: 7px 20px;
+  border: none;
+cursor: pointer;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.btn-submit{
+  color: #fff;
+  background-color: yellowgreen;
+
+}
+.btn-submit:hover{
+  color: #fff;
+  background-color: rgb(123, 175, 18);
+
+}
+.btn-edit{
+  color: #fff;
+  background-color: rgb(223, 182, 2);
+
+}
+.btn-edit:hover{
+  color: #fff;
+  background-color: rgb(168, 137, 1);
+
+}
+
+.btn-remove{
+  color: #fff;
+  background-color: rgb(255, 0, 0);
+
+}
+.btn-remove:hover{
+  color: #fff;
+  background-color: rgb(212, 0, 0);
+
+}
+
+
